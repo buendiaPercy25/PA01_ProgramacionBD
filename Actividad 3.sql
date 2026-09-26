@@ -1,6 +1,6 @@
 /* ------ ACTIVIDAD 3------*/
 
-use TiendaTechDB;
+use TechDB;
 go
 
 -- INER JOIN ---

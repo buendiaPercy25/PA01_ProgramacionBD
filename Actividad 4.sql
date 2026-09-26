@@ -1,4 +1,4 @@
-use TiendaTechDB;
+use TechDB;
 go
 
 /* ------ ACTIVIDAD 4------*/
