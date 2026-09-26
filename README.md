@@ -30,7 +30,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">Para ello se aplican conceptos de:<br><br>- Creación de bases de datos y tablas.<br>- Tipos de datos.<br>- Restricciones de integridad.<br>- Inserción de registros.<br>- Consultas SELECT.<br>- Filtros mediante WHERE.<br>- LIKE, BETWEEN, IN y EXISTS.<br>- Funciones de cadena, numéricas y de fecha.<br>- Funciones de agregación.<br>- GROUP BY y HAVING.<br>- INNER JOIN.<br>- LEFT OUTER JOIN.<br>- CASE.<br>- UNION.<br>- Subconsultas.</h5>
+<p data-importer="text" align="left">Para ello se aplican conceptos de:<br><br>- Creación de bases de datos y tablas.<br>- Tipos de datos.<br>- Restricciones de integridad.<br>- Inserción de registros.<br>- Consultas SELECT.<br>- Filtros mediante WHERE.<br>- LIKE, BETWEEN, IN y EXISTS.<br>- Funciones de cadena, numéricas y de fecha.<br>- Funciones de agregación.<br>- GROUP BY y HAVING.<br>- INNER JOIN.<br>- LEFT OUTER JOIN.<br>- CASE.<br>- UNION.<br>- Subconsultas.</p>
 
 ###
 
