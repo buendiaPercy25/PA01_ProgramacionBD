@@ -13,7 +13,7 @@ Correo varchar(100) unique not null,
 Edad int not null,
 Telefono varchar(9) unique not null,
 FechaNacimiento date not null,
-Distrito varchar(100) not null,
+Distrito varchar(50) not null,
 DNI varchar(8) unique not null
 )
 go
