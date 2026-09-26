@@ -22,7 +22,7 @@ create table Producto(
 IdProducto int primary key identity(1,1),
 Nombre varchar(100) not null,
 Precio decimal(10,2) not null,
-Categoria varchar(30) not null check(Categoria in('Cocina','Refrigeracion','Lavado','Climatizacon','Limpieza','Personales')),
+Categoria varchar(30) not null check(Categoria in('Cocina','Refrigeracion','Lavado','Climatizacion','Limpieza','Personales')),
 Cantidad int not null check(Cantidad >= 0)
 )
 go
