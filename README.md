@@ -163,7 +163,7 @@ Para revisar el proyecto, se deben verificar los resultados obtenidos por cada c
 ### 
 
 <p align="left">
-Las consultas correspondientes a las actividades 3 y 4 se encuentran desarrolladas en los archivos <b>Actividad 3.sql</b> y <b>Actividad 4.sql</b>.
+Las consultas correspondientes a las actividades.
 </p>
 
 ### 
