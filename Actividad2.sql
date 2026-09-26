@@ -114,8 +114,8 @@ FROM Producto;
 
 -- 10. GROUP BY
 
--- Identificar cuántos productos ha comprado
--- cada cliente.
+-- Identificar la cantidad total de productos
+-- comprados por cada cliente.
 
 SELECT
     IdCliente,
@@ -125,8 +125,8 @@ GROUP BY IdCliente;
 
 -- 11. GROUP BY + HAVING
 
--- Identificar los clientes que hayan comprado
--- 3 productos o más.
+-- Identificar los clientes cuya cantidad total
+-- de productos comprados sea de 3 o más.
 
 SELECT
     IdCliente,
