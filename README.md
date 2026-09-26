@@ -185,7 +185,7 @@ En este proyecto se aplicó el conocimiento de bases de datos creando tablas, re
 <br clear="both">
 
 <p data-importer="text" align="left">
-LINK:
+LINK: https://studio.youtube.com/video/eVWhLDAyDdM/edit
 </p>
 
 ###
