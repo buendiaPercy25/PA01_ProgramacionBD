@@ -1,7 +1,8 @@
 /* ------ ACTIVIDAD 3------*/
 
-use TechDB;
+use TiendaTechDB;
 go
+
 
 -- INER JOIN ---
 ---Mostrar las ventas que tuvo la empresa. Nos mostrara las ventas que tiene un cliente y un producto relacionado ---
